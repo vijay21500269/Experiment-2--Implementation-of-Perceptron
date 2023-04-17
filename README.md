@@ -114,3 +114,12 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ~~~
+## Output:
+![img1](https://user-images.githubusercontent.com/94381788/232382831-a2c64a46-5253-4bef-820c-1c7ed5e5ea10.png)
+![img2](https://user-images.githubusercontent.com/94381788/232382852-753dbc41-3867-4e2a-9342-95545e0c96b4.png)
+
+
+## Result:
+Thus,a perceptron for classification using Python is executed successfully
+
+
